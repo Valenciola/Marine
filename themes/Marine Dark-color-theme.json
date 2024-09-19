@@ -1,10 +1,11 @@
 {
 	"name": "Marine Dark",
 	"colors": {
-		"editor.background": "#263238",
+		"editor.background": "#1c3a4d",
 		"editor.foreground": "#eeffff",
 		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"sideBarTitle.foreground": "#bbbbbb",
+		"activityBar.foreground":"#73c2cf"
 	},
 	"tokenColors": [
 		{
