@@ -1,0 +1,21 @@
+{
+  "name": "marine",
+  "displayName": "Marine",
+  "description": "An ocean-based theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Marine Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Marine Dark-color-theme.json"
+      }
+    ]
+  }
+}
